@@ -1,0 +1,27 @@
+body{
+	background-image: url(decals.jpg);
+	background-size: cover;
+}
+.container {
+	text-align: center ;
+	margin: 0;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1{
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 120px;
+}
+
+
+h2{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 75px
+}
+
+.btn{
+	border-radius: 24px;
+}
